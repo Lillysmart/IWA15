@@ -16,7 +16,7 @@ console.log (second)
 const  third = data.lists [2][1]
 console.log (third)
 
-const result = [first,second,third]
+const result = []
 
 console.log (result)
 //console.log (first[first.length-1])
